@@ -1,0 +1,5 @@
+{
+    "directory_name": "cookie-conda",
+    "project_name": "projectx",
+    "license": ["MIT", "EPL-1.0","GNU GPL v3.0", "BSD-3", "Apache Software License 2.0"]
+}
